@@ -1,5 +1,9 @@
 # 💫 About Me:
-🎯Aspiring Software Engineer (AI/ML Focus)<br><br>💻 Currently learning: DSA + Java + Backend<br><br>🚀 Goal: Crack product-based companies<br><br>📌 Interested in: software development, Backend Systems<br><br>⚡ Fun fact: From diploma → B.Tech → aiming big
+🎯 Aspiring Software Engineer | Java • Backend • AI/ML<br><br>
+💻 Building projects with Java, Spring Boot, Python & React<br><br>
+🚀 Focused on DSA, backend development & practical software engineering<br><br>
+📌 Interested in scalable backend systems and applied AI/ML<br><br>
+⚡ Diploma → B.Tech CSE | Learning by building real-world projects
 
 
 ## 🌐 Socials:
